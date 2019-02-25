@@ -8,7 +8,7 @@ import (
 	"testing"
 )
 
-// Old librari test 30s
+// Old library test 30s
 // goos: linux
 // goarch: amd64
 // pkg: informer/wurfl
@@ -16,7 +16,7 @@ import (
 // PASS
 // ok  	informer/wurfl	68.372s
 
-// New librari test 30s
+// New library test 30s
 // goos: linux
 // goarch: amd64
 // pkg: informer/lib/wurfl
